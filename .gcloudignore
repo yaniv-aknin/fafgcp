@@ -1,0 +1,8 @@
+# gcloud topic gcloudignore
+.gcloudignore
+.git
+.gitignore
+.venv
+runcommands.sh
+.pytest_cache
+.__pycache__
