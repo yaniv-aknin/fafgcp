@@ -1,0 +1,1749 @@
+{
+    "data": [
+        {
+            "type": "game",
+            "id": "18029509",
+            "attributes": {
+                "endTime": "2022-09-16T00:00:22Z",
+                "name": "DK",
+                "replayAvailable": true,
+                "replayTicks": 27117,
+                "replayUrl": "https://content.faforever.com/replays/0/18/2/95/18029509.fafreplay",
+                "startTime": "2022-09-15T23:09:45Z",
+                "validity": "BAD_MOD",
+                "victoryCondition": "DEMORALIZATION"
+            },
+            "relationships": {
+                "featuredMod": {
+                    "data": {
+                        "type": "featuredMod",
+                        "id": "0"
+                    }
+                },
+                "host": {
+                    "data": {
+                        "type": "player",
+                        "id": "42638"
+                    }
+                },
+                "mapVersion": {
+                    "data": {
+                        "type": "mapVersion",
+                        "id": "25"
+                    }
+                },
+                "playerStats": {
+                    "data": [
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820581"
+                        }
+                    ]
+                },
+                "reviews": {
+                    "data": []
+                },
+                "reviewsSummary": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "game",
+            "id": "18029513",
+            "attributes": {
+                "endTime": "2022-09-16T00:00:27Z",
+                "name": "real noobs old school low tech",
+                "replayAvailable": true,
+                "replayTicks": 22995,
+                "replayUrl": "https://content.faforever.com/replays/0/18/2/95/18029513.fafreplay",
+                "startTime": "2022-09-15T23:14:13Z",
+                "validity": "BAD_UNIT_RESTRICTIONS",
+                "victoryCondition": "DEMORALIZATION"
+            },
+            "relationships": {
+                "featuredMod": {
+                    "data": {
+                        "type": "featuredMod",
+                        "id": "0"
+                    }
+                },
+                "host": {
+                    "data": {
+                        "type": "player",
+                        "id": "52151"
+                    }
+                },
+                "mapVersion": {
+                    "data": {
+                        "type": "mapVersion",
+                        "id": "11251"
+                    }
+                },
+                "playerStats": {
+                    "data": [
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820613"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820614"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820615"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820616"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820617"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820618"
+                        }
+                    ]
+                },
+                "reviews": {
+                    "data": []
+                },
+                "reviewsSummary": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "game",
+            "id": "18029627",
+            "attributes": {
+                "endTime": "2022-09-16T00:01:05Z",
+                "name": "Ello",
+                "replayAvailable": true,
+                "replayTicks": 13852,
+                "replayUrl": "https://content.faforever.com/replays/0/18/2/96/18029627.fafreplay",
+                "startTime": "2022-09-15T23:37:42Z",
+                "validity": "UNKNOWN_RESULT",
+                "victoryCondition": "DOMINATION"
+            },
+            "relationships": {
+                "featuredMod": {
+                    "data": {
+                        "type": "featuredMod",
+                        "id": "0"
+                    }
+                },
+                "host": {
+                    "data": {
+                        "type": "player",
+                        "id": "367059"
+                    }
+                },
+                "mapVersion": {
+                    "data": {
+                        "type": "mapVersion",
+                        "id": "566"
+                    }
+                },
+                "playerStats": {
+                    "data": [
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820793"
+                        }
+                    ]
+                },
+                "reviews": {
+                    "data": []
+                },
+                "reviewsSummary": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "game",
+            "id": "18029571",
+            "attributes": {
+                "endTime": "2022-09-16T00:01:15Z",
+                "name": "Team Evildrew Vs Team Jrunrumbash",
+                "replayAvailable": true,
+                "replayTicks": 18564,
+                "replayUrl": "https://content.faforever.com/replays/0/18/2/95/18029571.fafreplay",
+                "startTime": "2022-09-15T23:23:10Z",
+                "validity": "VALID",
+                "victoryCondition": "DEMORALIZATION"
+            },
+            "relationships": {
+                "featuredMod": {
+                    "data": {
+                        "type": "featuredMod",
+                        "id": "0"
+                    }
+                },
+                "host": {
+                    "data": {
+                        "type": "player",
+                        "id": "101417"
+                    }
+                },
+                "mapVersion": {
+                    "data": {
+                        "type": "mapVersion",
+                        "id": "21605"
+                    }
+                },
+                "playerStats": {
+                    "data": [
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820665"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820666"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820667"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820668"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820669"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820670"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820671"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820672"
+                        }
+                    ]
+                },
+                "reviews": {
+                    "data": []
+                },
+                "reviewsSummary": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "game",
+            "id": "18029702",
+            "attributes": {
+                "endTime": "2022-09-16T00:01:38Z",
+                "name": "-------WELCOM-------",
+                "replayAvailable": true,
+                "replayTicks": 3534,
+                "replayUrl": "https://content.faforever.com/replays/0/18/2/97/18029702.fafreplay",
+                "startTime": "2022-09-15T23:55:18Z",
+                "validity": "UNKNOWN_RESULT",
+                "victoryCondition": "DEMORALIZATION"
+            },
+            "relationships": {
+                "featuredMod": {
+                    "data": {
+                        "type": "featuredMod",
+                        "id": "0"
+                    }
+                },
+                "host": {
+                    "data": {
+                        "type": "player",
+                        "id": "455473"
+                    }
+                },
+                "mapVersion": {
+                    "data": {
+                        "type": "mapVersion",
+                        "id": "8319"
+                    }
+                },
+                "playerStats": {
+                    "data": [
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820925"
+                        }
+                    ]
+                },
+                "reviews": {
+                    "data": []
+                },
+                "reviewsSummary": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "game",
+            "id": "18029580",
+            "attributes": {
+                "endTime": "2022-09-16T00:01:47Z",
+                "name": "open",
+                "replayAvailable": true,
+                "replayTicks": 19935,
+                "replayUrl": "https://content.faforever.com/replays/0/18/2/95/18029580.fafreplay",
+                "startTime": "2022-09-15T23:26:59Z",
+                "validity": "COOP_NOT_RANKED",
+                "victoryCondition": "SANDBOX"
+            },
+            "relationships": {
+                "featuredMod": {
+                    "data": {
+                        "type": "featuredMod",
+                        "id": "25"
+                    }
+                },
+                "host": {
+                    "data": {
+                        "type": "player",
+                        "id": "267545"
+                    }
+                },
+                "mapVersion": {
+                    "data": null
+                },
+                "playerStats": {
+                    "data": [
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820721"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820722"
+                        }
+                    ]
+                },
+                "reviews": {
+                    "data": []
+                },
+                "reviewsSummary": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "game",
+            "id": "18029511",
+            "attributes": {
+                "endTime": "2022-09-16T00:02:10Z",
+                "name": "123",
+                "replayAvailable": true,
+                "replayTicks": 74112,
+                "replayUrl": "https://content.faforever.com/replays/0/18/2/95/18029511.fafreplay",
+                "startTime": "2022-09-15T23:08:19Z",
+                "validity": "BAD_MOD",
+                "victoryCondition": "SANDBOX"
+            },
+            "relationships": {
+                "featuredMod": {
+                    "data": {
+                        "type": "featuredMod",
+                        "id": "25"
+                    }
+                },
+                "host": {
+                    "data": {
+                        "type": "player",
+                        "id": "418942"
+                    }
+                },
+                "mapVersion": {
+                    "data": null
+                },
+                "playerStats": {
+                    "data": [
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820558"
+                        }
+                    ]
+                },
+                "reviews": {
+                    "data": []
+                },
+                "reviewsSummary": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "game",
+            "id": "18029612",
+            "attributes": {
+                "endTime": "2022-09-16T00:02:16Z",
+                "name": "custom to me",
+                "replayAvailable": true,
+                "replayTicks": 4706,
+                "replayUrl": "https://content.faforever.com/replays/0/18/2/96/18029612.fafreplay",
+                "startTime": "2022-09-15T23:35:20Z",
+                "validity": "UNKNOWN_RESULT",
+                "victoryCondition": "DEMORALIZATION"
+            },
+            "relationships": {
+                "featuredMod": {
+                    "data": {
+                        "type": "featuredMod",
+                        "id": "0"
+                    }
+                },
+                "host": {
+                    "data": {
+                        "type": "player",
+                        "id": "306898"
+                    }
+                },
+                "mapVersion": {
+                    "data": {
+                        "type": "mapVersion",
+                        "id": "16009"
+                    }
+                },
+                "playerStats": {
+                    "data": [
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820789"
+                        }
+                    ]
+                },
+                "reviews": {
+                    "data": []
+                },
+                "reviewsSummary": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "game",
+            "id": "18029483",
+            "attributes": {
+                "endTime": "2022-09-16T00:02:19Z",
+                "name": "palace_rodants",
+                "replayAvailable": true,
+                "replayTicks": 27590,
+                "replayUrl": "https://content.faforever.com/replays/0/18/2/94/18029483.fafreplay",
+                "startTime": "2022-09-15T23:05:08Z",
+                "validity": "UNKNOWN_RESULT",
+                "victoryCondition": "SANDBOX"
+            },
+            "relationships": {
+                "featuredMod": {
+                    "data": {
+                        "type": "featuredMod",
+                        "id": "0"
+                    }
+                },
+                "host": {
+                    "data": {
+                        "type": "player",
+                        "id": "149320"
+                    }
+                },
+                "mapVersion": {
+                    "data": {
+                        "type": "mapVersion",
+                        "id": "652"
+                    }
+                },
+                "playerStats": {
+                    "data": [
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820523"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820524"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820525"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820526"
+                        }
+                    ]
+                },
+                "reviews": {
+                    "data": []
+                },
+                "reviewsSummary": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "game",
+            "id": "18029705",
+            "attributes": {
+                "endTime": "2022-09-16T00:02:45Z",
+                "name": "shane",
+                "replayAvailable": true,
+                "replayTicks": 2163,
+                "replayUrl": "https://content.faforever.com/replays/0/18/2/97/18029705.fafreplay",
+                "startTime": "2022-09-15T23:58:35Z",
+                "validity": "BAD_MOD",
+                "victoryCondition": "DEMORALIZATION"
+            },
+            "relationships": {
+                "featuredMod": {
+                    "data": {
+                        "type": "featuredMod",
+                        "id": "0"
+                    }
+                },
+                "host": {
+                    "data": {
+                        "type": "player",
+                        "id": "70406"
+                    }
+                },
+                "mapVersion": {
+                    "data": {
+                        "type": "mapVersion",
+                        "id": "21131"
+                    }
+                },
+                "playerStats": {
+                    "data": [
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820944"
+                        },
+                        {
+                            "type": "gamePlayerStats",
+                            "id": "35820945"
+                        }
+                    ]
+                },
+                "reviews": {
+                    "data": []
+                },
+                "reviewsSummary": {
+                    "data": null
+                }
+            }
+        }
+    ],
+    "meta": {
+        "page": {
+            "number": 1,
+            "totalRecords": 6111,
+            "limit": 10,
+            "totalPages": 612
+        }
+    },
+    "included": [
+        {
+            "type": "gamePlayerStats",
+            "id": "35820581",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 174.781,
+                "beforeMean": 1421.15,
+                "color": 5,
+                "faction": 1,
+                "result": "VICTORY",
+                "score": 10,
+                "scoreTime": "2022-09-16T00:00:22Z",
+                "startSpot": 2,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029509"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "42638"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820614",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 96.4062,
+                "beforeMean": 1048.78,
+                "color": 11,
+                "faction": 4,
+                "result": "DEFEAT",
+                "score": -10,
+                "scoreTime": "2022-09-16T00:00:27Z",
+                "startSpot": 2,
+                "team": 3
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029513"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "112168"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820617",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 98.4571,
+                "beforeMean": 1103.94,
+                "color": 9,
+                "faction": 1,
+                "result": "DEFEAT",
+                "score": -10,
+                "scoreTime": "2022-09-16T00:00:27Z",
+                "startSpot": 5,
+                "team": 3
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029513"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "15098"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820613",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 108.421,
+                "beforeMean": 401.297,
+                "color": 13,
+                "faction": 3,
+                "result": "DEFEAT",
+                "score": -10,
+                "scoreTime": "2022-09-16T00:00:27Z",
+                "startSpot": 1,
+                "team": 3
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029513"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "52151"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820618",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 100.318,
+                "beforeMean": 1086.68,
+                "color": 16,
+                "faction": 1,
+                "result": "VICTORY",
+                "score": 10,
+                "scoreTime": "2022-09-16T00:00:27Z",
+                "startSpot": 6,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029513"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "176252"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820616",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 98.5918,
+                "beforeMean": 1154.11,
+                "color": 4,
+                "faction": 3,
+                "result": "DEFEAT",
+                "score": -10,
+                "scoreTime": "2022-09-16T00:00:27Z",
+                "startSpot": 4,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029513"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "36722"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820615",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 108.749,
+                "beforeMean": 260.155,
+                "color": 7,
+                "faction": 2,
+                "result": "VICTORY",
+                "score": 10,
+                "scoreTime": "2022-09-16T00:00:27Z",
+                "startSpot": 3,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029513"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "65589"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820793",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 500.0,
+                "beforeMean": 1500.0,
+                "color": 15,
+                "faction": 3,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": null,
+                "startSpot": 1,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029627"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "367059"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820665",
+            "attributes": {
+                "afterDeviation": 98.9137,
+                "afterMean": 2156.6,
+                "ai": false,
+                "beforeDeviation": 98.7022,
+                "beforeMean": 2152.85,
+                "color": 1,
+                "faction": 1,
+                "result": "VICTORY",
+                "score": 1,
+                "scoreTime": "2022-09-16T00:01:15Z",
+                "startSpot": 1,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029571"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "101417"
+                    }
+                },
+                "ratingChanges": {
+                    "data": [
+                        {
+                            "type": "leaderboardRatingJournal",
+                            "id": "15880046"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820667",
+            "attributes": {
+                "afterDeviation": 115.876,
+                "afterMean": 1696.66,
+                "ai": false,
+                "beforeDeviation": 115.92,
+                "beforeMean": 1701.82,
+                "color": 8,
+                "faction": 4,
+                "result": "DEFEAT",
+                "score": 0,
+                "scoreTime": "2022-09-16T00:01:15Z",
+                "startSpot": 6,
+                "team": 3
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029571"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "80411"
+                    }
+                },
+                "ratingChanges": {
+                    "data": [
+                        {
+                            "type": "leaderboardRatingJournal",
+                            "id": "15880051"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820666",
+            "attributes": {
+                "afterDeviation": 115.911,
+                "afterMean": 1575.34,
+                "ai": false,
+                "beforeDeviation": 115.955,
+                "beforeMean": 1570.18,
+                "color": 2,
+                "faction": 3,
+                "result": "VICTORY",
+                "score": 1,
+                "scoreTime": "2022-09-16T00:01:15Z",
+                "startSpot": 3,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029571"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "229609"
+                    }
+                },
+                "ratingChanges": {
+                    "data": [
+                        {
+                            "type": "leaderboardRatingJournal",
+                            "id": "15880049"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820671",
+            "attributes": {
+                "afterDeviation": 117.931,
+                "afterMean": 1985.44,
+                "ai": false,
+                "beforeDeviation": 118.008,
+                "beforeMean": 1990.78,
+                "color": 7,
+                "faction": 3,
+                "result": "DEFEAT",
+                "score": 0,
+                "scoreTime": "2022-09-16T00:01:15Z",
+                "startSpot": 2,
+                "team": 3
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029571"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "92766"
+                    }
+                },
+                "ratingChanges": {
+                    "data": [
+                        {
+                            "type": "leaderboardRatingJournal",
+                            "id": "15880052"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820670",
+            "attributes": {
+                "afterDeviation": 223.244,
+                "afterMean": 1906.71,
+                "ai": false,
+                "beforeDeviation": 226.554,
+                "beforeMean": 1887.12,
+                "color": 4,
+                "faction": 4,
+                "result": "VICTORY",
+                "score": 1,
+                "scoreTime": "2022-09-16T00:01:15Z",
+                "startSpot": 5,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029571"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "445404"
+                    }
+                },
+                "ratingChanges": {
+                    "data": [
+                        {
+                            "type": "leaderboardRatingJournal",
+                            "id": "15880048"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820669",
+            "attributes": {
+                "afterDeviation": 100.454,
+                "afterMean": 1471.29,
+                "ai": false,
+                "beforeDeviation": 100.264,
+                "beforeMean": 1475.16,
+                "color": 12,
+                "faction": 3,
+                "result": "DEFEAT",
+                "score": 0,
+                "scoreTime": "2022-09-16T00:01:15Z",
+                "startSpot": 8,
+                "team": 3
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029571"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "378970"
+                    }
+                },
+                "ratingChanges": {
+                    "data": [
+                        {
+                            "type": "leaderboardRatingJournal",
+                            "id": "15880050"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820668",
+            "attributes": {
+                "afterDeviation": 222.128,
+                "afterMean": 1825.06,
+                "ai": false,
+                "beforeDeviation": 225.382,
+                "beforeMean": 1805.68,
+                "color": 19,
+                "faction": 1,
+                "result": "VICTORY",
+                "score": 1,
+                "scoreTime": "2022-09-16T00:01:15Z",
+                "startSpot": 7,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029571"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "586"
+                    }
+                },
+                "ratingChanges": {
+                    "data": [
+                        {
+                            "type": "leaderboardRatingJournal",
+                            "id": "15880047"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820672",
+            "attributes": {
+                "afterDeviation": 117.298,
+                "afterMean": 1393.91,
+                "ai": false,
+                "beforeDeviation": 117.365,
+                "beforeMean": 1399.19,
+                "color": 9,
+                "faction": 3,
+                "result": "DEFEAT",
+                "score": 0,
+                "scoreTime": "2022-09-16T00:01:15Z",
+                "startSpot": 4,
+                "team": 3
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029571"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "80407"
+                    }
+                },
+                "ratingChanges": {
+                    "data": [
+                        {
+                            "type": "leaderboardRatingJournal",
+                            "id": "15880053"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "leaderboardRatingJournal",
+            "id": "15880046",
+            "attributes": {
+                "createTime": "2022-09-16T00:01:15Z",
+                "deviationAfter": 98.9137,
+                "deviationBefore": 98.7022,
+                "meanAfter": 2156.6,
+                "meanBefore": 2152.85,
+                "updateTime": "2022-09-16T00:01:15Z"
+            },
+            "relationships": {
+                "gamePlayerStats": {
+                    "data": {
+                        "type": "gamePlayerStats",
+                        "id": "35820665"
+                    }
+                },
+                "leaderboard": {
+                    "data": {
+                        "type": "leaderboard",
+                        "id": "4"
+                    }
+                }
+            }
+        },
+        {
+            "type": "leaderboardRatingJournal",
+            "id": "15880051",
+            "attributes": {
+                "createTime": "2022-09-16T00:01:15Z",
+                "deviationAfter": 115.876,
+                "deviationBefore": 115.92,
+                "meanAfter": 1696.66,
+                "meanBefore": 1701.82,
+                "updateTime": "2022-09-16T00:01:15Z"
+            },
+            "relationships": {
+                "gamePlayerStats": {
+                    "data": {
+                        "type": "gamePlayerStats",
+                        "id": "35820667"
+                    }
+                },
+                "leaderboard": {
+                    "data": {
+                        "type": "leaderboard",
+                        "id": "4"
+                    }
+                }
+            }
+        },
+        {
+            "type": "leaderboardRatingJournal",
+            "id": "15880049",
+            "attributes": {
+                "createTime": "2022-09-16T00:01:15Z",
+                "deviationAfter": 115.911,
+                "deviationBefore": 115.955,
+                "meanAfter": 1575.34,
+                "meanBefore": 1570.18,
+                "updateTime": "2022-09-16T00:01:15Z"
+            },
+            "relationships": {
+                "gamePlayerStats": {
+                    "data": {
+                        "type": "gamePlayerStats",
+                        "id": "35820666"
+                    }
+                },
+                "leaderboard": {
+                    "data": {
+                        "type": "leaderboard",
+                        "id": "4"
+                    }
+                }
+            }
+        },
+        {
+            "type": "leaderboardRatingJournal",
+            "id": "15880052",
+            "attributes": {
+                "createTime": "2022-09-16T00:01:15Z",
+                "deviationAfter": 117.931,
+                "deviationBefore": 118.008,
+                "meanAfter": 1985.44,
+                "meanBefore": 1990.78,
+                "updateTime": "2022-09-16T00:01:15Z"
+            },
+            "relationships": {
+                "gamePlayerStats": {
+                    "data": {
+                        "type": "gamePlayerStats",
+                        "id": "35820671"
+                    }
+                },
+                "leaderboard": {
+                    "data": {
+                        "type": "leaderboard",
+                        "id": "4"
+                    }
+                }
+            }
+        },
+        {
+            "type": "leaderboardRatingJournal",
+            "id": "15880048",
+            "attributes": {
+                "createTime": "2022-09-16T00:01:15Z",
+                "deviationAfter": 223.244,
+                "deviationBefore": 226.554,
+                "meanAfter": 1906.71,
+                "meanBefore": 1887.12,
+                "updateTime": "2022-09-16T00:01:15Z"
+            },
+            "relationships": {
+                "gamePlayerStats": {
+                    "data": {
+                        "type": "gamePlayerStats",
+                        "id": "35820670"
+                    }
+                },
+                "leaderboard": {
+                    "data": {
+                        "type": "leaderboard",
+                        "id": "4"
+                    }
+                }
+            }
+        },
+        {
+            "type": "leaderboardRatingJournal",
+            "id": "15880050",
+            "attributes": {
+                "createTime": "2022-09-16T00:01:15Z",
+                "deviationAfter": 100.454,
+                "deviationBefore": 100.264,
+                "meanAfter": 1471.29,
+                "meanBefore": 1475.16,
+                "updateTime": "2022-09-16T00:01:15Z"
+            },
+            "relationships": {
+                "gamePlayerStats": {
+                    "data": {
+                        "type": "gamePlayerStats",
+                        "id": "35820669"
+                    }
+                },
+                "leaderboard": {
+                    "data": {
+                        "type": "leaderboard",
+                        "id": "4"
+                    }
+                }
+            }
+        },
+        {
+            "type": "leaderboardRatingJournal",
+            "id": "15880047",
+            "attributes": {
+                "createTime": "2022-09-16T00:01:15Z",
+                "deviationAfter": 222.128,
+                "deviationBefore": 225.382,
+                "meanAfter": 1825.06,
+                "meanBefore": 1805.68,
+                "updateTime": "2022-09-16T00:01:15Z"
+            },
+            "relationships": {
+                "gamePlayerStats": {
+                    "data": {
+                        "type": "gamePlayerStats",
+                        "id": "35820668"
+                    }
+                },
+                "leaderboard": {
+                    "data": {
+                        "type": "leaderboard",
+                        "id": "4"
+                    }
+                }
+            }
+        },
+        {
+            "type": "leaderboardRatingJournal",
+            "id": "15880053",
+            "attributes": {
+                "createTime": "2022-09-16T00:01:15Z",
+                "deviationAfter": 117.298,
+                "deviationBefore": 117.365,
+                "meanAfter": 1393.91,
+                "meanBefore": 1399.19,
+                "updateTime": "2022-09-16T00:01:15Z"
+            },
+            "relationships": {
+                "gamePlayerStats": {
+                    "data": {
+                        "type": "gamePlayerStats",
+                        "id": "35820672"
+                    }
+                },
+                "leaderboard": {
+                    "data": {
+                        "type": "leaderboard",
+                        "id": "4"
+                    }
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820925",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 144.694,
+                "beforeMean": 1758.48,
+                "color": 2,
+                "faction": 1,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": null,
+                "startSpot": 1,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029702"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "455473"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820721",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 500.0,
+                "beforeMean": 1500.0,
+                "color": 4,
+                "faction": 2,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": null,
+                "startSpot": 1,
+                "team": 1
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029580"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "267545"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820722",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 382.183,
+                "beforeMean": 1647.8,
+                "color": 7,
+                "faction": 3,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": null,
+                "startSpot": 2,
+                "team": 1
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029580"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "107040"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820558",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 126.502,
+                "beforeMean": 1179.1,
+                "color": 13,
+                "faction": 1,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": null,
+                "startSpot": 1,
+                "team": 1
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029511"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "418942"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820789",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 500.0,
+                "beforeMean": 1500.0,
+                "color": 4,
+                "faction": 1,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": null,
+                "startSpot": 2,
+                "team": 1
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029612"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "306898"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820523",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 110.251,
+                "beforeMean": 872.76,
+                "color": 8,
+                "faction": 1,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": null,
+                "startSpot": 3,
+                "team": 1
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029483"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "149320"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820524",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 171.614,
+                "beforeMean": 1233.14,
+                "color": 11,
+                "faction": 2,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": null,
+                "startSpot": 2,
+                "team": 1
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029483"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "358485"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820525",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 204.117,
+                "beforeMean": 1384.61,
+                "color": 13,
+                "faction": 1,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": null,
+                "startSpot": 1,
+                "team": 1
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029483"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "358120"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820526",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 79.8698,
+                "beforeMean": 1055.44,
+                "color": 4,
+                "faction": 3,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": null,
+                "startSpot": 4,
+                "team": 1
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029483"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "302013"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820944",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 500.0,
+                "beforeMean": 1500.0,
+                "color": 13,
+                "faction": 4,
+                "result": "UNKNOWN",
+                "score": 0,
+                "scoreTime": "2022-09-16T00:02:45Z",
+                "startSpot": 4,
+                "team": 2
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029705"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "70406"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "type": "gamePlayerStats",
+            "id": "35820945",
+            "attributes": {
+                "afterDeviation": null,
+                "afterMean": null,
+                "ai": false,
+                "beforeDeviation": 500.0,
+                "beforeMean": 1500.0,
+                "color": 2,
+                "faction": 1,
+                "result": "DEFEAT",
+                "score": -10,
+                "scoreTime": "2022-09-16T00:02:45Z",
+                "startSpot": 6,
+                "team": 1
+            },
+            "relationships": {
+                "game": {
+                    "data": {
+                        "type": "game",
+                        "id": "18029705"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "457088"
+                    }
+                },
+                "ratingChanges": {
+                    "data": []
+                }
+            }
+        }
+    ]
+}
