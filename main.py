@@ -55,4 +55,4 @@ def scrape(request):
             row_count += 1
     writer.close()
     log('request complete', row_count=row_count)
-    return flask.Response(f'{row_count} rows written to gs://{bucket_name}/{blob_name}', mimetype='text/plain')
+    return flask.Response(f'{row_count} rows written to gs://{bucket_name}/{blob_name}\n', mimetype='text/plain')

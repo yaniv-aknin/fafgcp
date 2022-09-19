@@ -1,6 +1,8 @@
 import flask
+import os
 import json
 import pytest
+from unittest import mock
 
 import responses
 from google.cloud import storage
@@ -11,6 +13,7 @@ import main
 def app():
     return flask.Flask(__name__)
 
+@mock.patch.dict(os.environ, {"FAFGCP_BUCKET": "testbucket"})
 @responses.activate
 def test_scrape(mocker, app):
     with open('games.json') as handle:
@@ -23,7 +26,7 @@ def test_scrape(mocker, app):
     mocker.patch('google.cloud.storage.fileio.BlobWriter')
     with app.test_request_context('/?end_date=1970-01-02&start_date=1970-01-01&max_page=1'):
         res = main.scrape(flask.request)
-        assert res == '10 rows written'
+        assert res.data == b'10 rows written to gs://testbucket/game/dt=1970-01-02/data.ndjson\n'
     storage.Client.assert_called_once()
     assert storage.fileio.BlobWriter.return_value.write.call_count == 10
     last_row = json.loads(storage.fileio.BlobWriter.return_value.write.call_args[0][0])
