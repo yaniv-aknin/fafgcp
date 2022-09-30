@@ -24,7 +24,7 @@ def test_scrape(mocker, app):
     responses.add(method='GET', url=url, json=data)
     mocker.patch('google.cloud.storage.Client')
     mocker.patch('google.cloud.storage.fileio.BlobWriter')
-    with app.test_request_context('/?end_date=1970-01-02&start_date=1970-01-01&max_page=1'):
+    with app.test_request_context(json={'end_date': '1970-01-02', 'start_date': '1970-01-01', 'max_page': 1}):
         res = main.scrape(flask.request)
         assert res.data == b'10 rows written to gs://testbucket/game/dt=1970-01-02/data.ndjson\n'
     storage.Client.assert_called_once()

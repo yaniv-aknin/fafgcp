@@ -5,39 +5,40 @@ import functools
 import functions_framework
 from google.cloud import storage
 import flask
+from marshmallow import Schema, fields
+import marshmallow
 
 from fafdata.fetch import construct_url, yield_pages
 from fafdata.transform import process_page
 from fafdata.utils import parse_date
 
-DEFAULTS = {
-    'page_size': (int, 10),
-    'inter_page_sleep': (int, 1),
-    'max_page': (int, 3),
-    'start_date': (parse_date, '-2'),
-    'end_date': (parse_date, '-1'),
-}
-
-def parse_request_args(request, specification):
-    args = {}
-    if set(request.args) - set(specification):
-        flask.abort(400) 
-    for parameter, (cast, default) in specification.items():
-        args[parameter] = cast(request.args.get(parameter, default))
-    return args
-
+class Arguments(Schema):
+    page_size = fields.Integer(load_default=10)
+    inter_page_sleep = fields.Integer(load_default=1)
+    max_page = fields.Integer(load_default=3)
+    start_date = fields.Date(load_default=lambda: parse_date('-2'))
+    end_date = fields.Date(load_default=lambda: parse_date('-1'))
 
 def log(msg, **kwargs):
     kwargs['msg'] = msg
     print(json.dumps(kwargs, default=repr))
 
+def load_request_args(func):
+    @functools.wraps(func)
+    def wrapper(request):
+        try:
+            return func(Arguments().load(request.json))
+        except marshmallow.exceptions.ValidationError as error:
+            return flask.jsonify(error.messages), 400
+    return wrapper
+
 @functions_framework.http
-def scrape(request):
+@load_request_args
+def scrape(args):
     ENTITY_TO_SCRAPE = 'game'
     INCLUDED_RELATIONS = ('playerStats', 'playerStats.ratingChanges')
     ENTITY_DATE_FIELD = 'endTime'
     bucket_name = os.environ['FAFGCP_BUCKET']
-    args = parse_request_args(request, DEFAULTS)
     blob_name = f'{ENTITY_TO_SCRAPE}/dt={args["end_date"].strftime("%Y-%m-%d")}/data.ndjson'
     log('processing request', bucket_name=bucket_name, blob_name=blob_name, **args)
 
