@@ -1,0 +1,16 @@
+version: "3.1"
+
+services:
+  scheduler:
+    image: europe-west1-docker.pkg.dev/fafalytics/fafalytics/fafdask:latest
+    hostname: scheduler
+    ports:
+      - "8786:8786"
+      - "8787:8787"
+    command: ["dask", "scheduler"]
+
+  worker:
+    image: europe-west1-docker.pkg.dev/fafalytics/fafalytics/fafdask:latest
+    command: ["dask", "worker", "tcp://scheduler:8786", "--nworkers", "auto"]
+    volumes:
+       - /home/teolicy/Projects/faf/data/replays/2016-q222--ladder-1v1:/DATA/replays:ro
